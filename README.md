@@ -1,160 +1,112 @@
-## Hi there bilal 👋
+# 👋 Hi, I'm Muhammad Bilal Sajid
 
+🎯 **Frontend Developer | MERN Stack Developer | UI Enthusiast**
 
-# 🍽️ Food Recipe MERN App
-
-A **Food Recipe Management System** built using the **MERN Stack** (MongoDB, Express, React, Node.js).
-This project allows users to **create, update, delete, and view recipes**, mark them as **favourites**, and manage their own collection securely using **JWT authentication**.
-
----
-
-## 🚀 Live Demo
-Frontend: [https://foodrecipeblog.vercel.app](https://foodrecipeblog.vercel.app)
-Backend: [https://mern-food-recipe-backend-co58rc2f3.vercel.app](https://mern-food-recipe-backend-co58rc2f3.vercel.app)
+I’m a passionate **MERN Stack Developer** with a strong focus on building responsive, user-friendly, and efficient web applications.  
+With a solid background in **React.js**, **Node.js**, **Express.js**, and **MongoDB**, I bring together both creative design and logical functionality to craft digital experiences that make an impact.
 
 ---
 
-## 🧩 Features
-- ✅ **Authentication (JWT)** — Secure login & registration  
-- ✅ **CRUD Operations** — Add, update, delete, and view your recipes  
-- ✅ **Favourites** — Mark recipes as favourite (user-specific list)  
-- ✅ **User Dashboard** — See your own recipes and favourite ones  
-- ✅ **Image Upload** — Recipe image upload using **Multer**  
-- ✅ **Responsive UI** — Modern responsive design using React and Tailwind CSS  
-- ✅ **Protected Routes** — Only logged-in users can manage their recipes  
-- ✅ **Toast Notifications** — Success and error messages with React Toastify  
+## 💻 Tech Stack & Skills
+
+### 🚀 Frontend
+- React.js (Hooks, Context API, Router)
+- HTML5, CSS3, JavaScript (ES6+)
+- Tailwind CSS, Bootstrap, Material UI
+- Responsive UI/UX Design
+
+### ⚙️ Backend
+- Node.js, Express.js
+- RESTful API Development
+- JWT Authentication & Authorization
+- File Uploads (Multer, Cloudinary)
+
+### 🧠 Database
+- MongoDB & Mongoose ORM
+- MongoDB Atlas (Cloud Database Management)
+
+### 🧩 Tools & Workflow
+- Git, GitHub
+- Postman, VS Code
+- Render / Vercel Deployment
+- Environment Management (.env)
+- Agile / SCRUM workflow
 
 ---
 
-## 🏗️ Tech Stack
+## 🌟 Highlighted Projects
 
-**Frontend:**
-- React.js
-- React Router DOM
-- React Toastify
-- React Icons
-- Axios
-- Tailwind CSS
-- Vite
+### 🥗 Food Recipe Blog (MERN Stack)
+> A full-stack recipe management app implementing CRUD operations and user authentication.  
+Users can **add, edit, delete**, and **mark recipes as favourites**, with each user having their own favourites list.
 
-**Backend:**
-- Node.js
-- Express.js
-- MongoDB & Mongoose
-- JWT (Authentication)
-- Multer (Image Uploads)
-- dotenv
-- CORS
+🔹 Tech Used: React.js, Node.js, Express.js, MongoDB, JWT, Cloudinary  
+🔹 Features: Authentication + CRUD + Cloud Image Upload + Protected Routes  
+🔹 Live Demo: *(Add your live link here)*
 
 ---
 
-## ⚙️ Folder Structure
+### 🏪 Forever Store (E-Commerce)
+> A complete MERN stack e-commerce website with product management, cart functionality, and secure checkout.
 
-```
-root/
-│
-├── backend/
-│   ├── controllers/
-│   ├── models/
-│   ├── middlewares/
-│   ├── routes/
-│   ├── uploads/
-│   ├── .env
-│   ├── server.js
-│   └── package.json
-│
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── context/
-│   │   ├── App.jsx
-│   │   └── main.jsx
-│   ├── .env
-│   ├── vite.config.js
-│   └── package.json
-│
-└── README.md
-```
+🔹 Features: Admin Dashboard, Product Upload via Multer, Cloudinary Integration, Payment Handling  
+🔹 Deployed on Render with MongoDB Atlas backend  
+🔹 Live Demo: *(Add your link here)*
 
 ---
 
-## 🔐 Environment Variables
+### 🎵 Spotify Clone
+> A MERN-based Spotify clone with admin panel for song and album management, with media hosted on Cloudinary.
 
-### Backend `.env`
-```
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
-PORT=4000
-```
-
-### Frontend `.env`
-```
-VITE_BACKEND_URL=https://mern-food-recipe-backend-co58rc2f3.vercel.app
-```
+🔹 Features: Music Streaming, CRUD for Albums & Songs, Cloud Storage Integration  
+🔹 Live Demo: *(Add your link here)*
 
 ---
 
-## 🧑‍💻 Installation
+## 🎓 Education
 
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/yourusername/food-recipe-mern.git
-cd food-recipe-mern
-```
-
-### 2️⃣ Setup backend
-```bash
-cd backend
-npm install
-npm run dev
-```
-
-### 3️⃣ Setup frontend
-```bash
-cd ../frontend
-npm install
-npm run dev
-```
+**Bachelor of Science in Computer Science (BSCS)**  
+📍 *COMSATS University, Sahiwal Campus*  
+🎓 *Expected Graduation:* 2025
 
 ---
 
-## 🚀 Deployment
-- **Frontend**: Deployed on [Vercel](https://vercel.com)
-- **Backend**: Deployed on [Vercel](https://vercel.com) with MongoDB Atlas
+## 🧠 What I’m Currently Learning
+
+- Next.js for server-side rendering  
+- AWS (Amazon Web Services) for cloud deployment  
+- Advanced UI/UX and frontend performance optimization
 
 ---
 
-## 📸 Screenshots
+## 🤝 Let’s Connect
 
-| Home Page | Recipe Details | Dashboard |
-|------------|----------------|------------|
-| ![Home](https://via.placeholder.com/400x250) | ![Recipe](https://via.placeholder.com/400x250) | ![Dashboard](https://via.placeholder.com/400x250) |
-
----
-
-## 💡 Learning Outcomes
-- 📘 Learned how to integrate **CRUD + Authentication** in a single MERN project.  
-- 🧠 Understood how to protect routes and handle **user-specific data**.  
-- ⚙️ Practiced **backend deployment** and **CORS configuration** on Vercel.  
+📧 **Email:** [mbilalsajid.cs070@gmail.com](mailto:mbilalsajid.cs070@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/muhammadbilalsajid](https://linkedin.com/in/muhammadbilalsajid)  
+🌐 **Portfolio:** [https://bilalsajid.onrender.com](https://bilalsajid.onrender.com/) 
+📍 **Location:** Sahiwal, Pakistan  
 
 ---
 
-## 🏷️ Hashtags
-#MERNStack #ReactJS #NodeJS #MongoDB #ExpressJS #FullStackDevelopment #WebDevelopment #CRUD #Authentication #Vercel #Frontend #Backend #JavaScript #ReactDeveloper #PortfolioProject
+## 🏆 About Me
 
+> “Code is not just what I do — it’s how I solve real-world problems.”
 
-<!--
-**Bhali-ZzZ/Bhali-ZzZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a developer who believes in **clean, maintainable code** and **user-focused design**.  
+From concept to deployment, I aim to create solutions that are intuitive, fast, and scalable.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Fun Fact
+When I’m not coding, I enjoy exploring design ideas, learning new technologies, and improving UI/UX experiences that make people smile. 😄
+
+---
+
+### 🧩 GitHub Stats (Optional)
+![Bilal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bilalsajid364&show_icons=true&theme=react)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalsajid364&layout=compact&theme=react)
+
+---
+
+⭐ **_“Building tomorrow’s web, one project at a time.”_**
+
